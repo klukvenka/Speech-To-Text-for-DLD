@@ -1,0 +1,15 @@
+Speech To Text
+
+Aida Gasanova aida.gasanova@mail.polimi.it Computer Science and Engineering
+
+Max Griesmayer max.griesmayer@mail.polimi.it Erasmus - Computer Science and Engineering
+
+Victor Mouradian victor.mouradian@gmail.com Erasmus - Computer Science and Engineering
+
+
+The purpose of this work is to develop a speech to text module that can understand children having Developmental language disorder, 
+but also detect mistakes when speaking. Our work is based on the open source project DeepSpeech, wich provide many implementations
+allowing the model to be used in many different forms (offline, online, mobile app, web app etc.)
+We've managed using fine-tuning to get a working model using data directly gathered from sessions between teachers and children with
+speech impairement but a lot of work is still remaining mainly in data gathering to get a solution that is functional 
+and manages to help children.
